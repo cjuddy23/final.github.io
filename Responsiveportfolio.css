@@ -1,0 +1,16 @@
+@media screen and (max-width: 500px) {
+    #resumephoto {
+        width: auto;
+        float: none;
+        margin-right: 0;
+    }
+}
+#topmenu {
+    width: 25%;
+    border-bottom: 1px solid #bababa;
+}
+#headline1 {
+    font-size: 18px;
+    text-align: left;
+
+}

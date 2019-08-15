@@ -1,0 +1,97 @@
+body{
+    background-image: url("images/Bountiful.jpg");
+    background-size: cover;
+    
+}
+
+#container {
+    
+}
+#topbar {
+    width: 100%;
+    height: 60px;
+    background-color:#0ea2b0;   
+}
+.fixwidth {
+    width: 900px;
+    margin: auto;
+    }
+#logoarea {float: left;
+        padding-top: 5px;
+        margin-left: 15px;
+    
+}
+
+#topmenu {font-family: fantasy;
+        font-size: 1.05em;
+    
+}
+
+#topmenu li {
+    float: left;
+    color: white;
+    list-style: none;
+    margin-left: 35px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+a:link {color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {color: white;
+}
+
+#content {
+    width: 100%;   
+}
+#headline1 {
+    color: #ffcc00;
+    font-size: 3.0em;
+    font-family: fantasy;
+    margin-bottom: 0;
+    background-color: none;
+}
+#resumephoto {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 10px 0;
+    
+    
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 10px 0;
+}
+label {
+    float:left;
+    width: 150px;
+    text-align: right;
+    padding-right: 12px;
+    margin-top: 12px;
+    clear: left;
+    color: #ffcc00;
+    font-family: fantasy;
+    
+}
+input, textarea {
+    margin-top: 12px;
+}
+#theSubmit {
+    margin-left: 150px;
+    padding: 15px;
+}
+#aboutme {
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    background-color:; 
+    padding-left: 400px;
+    padding-right: 400px;
+}
